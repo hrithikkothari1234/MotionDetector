@@ -41,7 +41,7 @@ After installing all dependencies
 $ python plotting.py
 ```
 Webcam starts and the video gets generated. <br />
-Note: If you dont have a webcam , the code might throw an exception.
+Note: If you dont have a webcam , the code might throw an exception. <br />
 Note: Let the First Frame be a background that wont change at all. And then make an object enter. <br />
 After quitting a Graph.html is generated which shows ur Motion Graph. <br />
 
