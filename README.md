@@ -40,7 +40,9 @@ After installing all dependencies
 ```
 $ python plotting.py
 ```
-Webcam opens and the video gets generated. <br />
+Webcam starts and the video gets generated. <br />
+Note: If you dont have a webcam , the code might throw an exception.
+Note: Let the First Frame be a background that wont change at all. And then make an object enter. <br />
 After quitting a Graph.html is generated which shows ur Motion Graph. <br />
 
 * Example Graph : https://hrithikkothari1234.github.io/Webmap/Graph.html
