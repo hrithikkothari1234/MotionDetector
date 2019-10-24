@@ -6,7 +6,7 @@ Image / Video Processing using OpenCV
 * Python Code
 * OpenCV for Video Processing
 * Pandas for Data analysis
-* bokeh for Data Visualization
+* Bokeh for Data Visualization
 
 ## Features
 Processing the video from the webcam and:
@@ -32,7 +32,7 @@ It can be used in raspberry pie's for motion detection.
 ```
 $ git clone https://github.com/hrithikkothari1234/MotionDetector.git
 $ pip install cv2
-$ pip install times
+$ pip install time
 $ pip install pandas
 $ pip install bokeh
 ```
@@ -44,5 +44,6 @@ Webcam opens and the video gets generated. <br />
 After quitting a Graph.html is generated which shows ur Motion Graph. <br />
 
 * Example Graph : https://hrithikkothari1234.github.io/Webmap/Graph.html
+![alt text](https://raw.githubusercontent.com/hrithikkothari1234/MotionDetector/master/Example/examplegraph.png)
 
 ![alt text](https://raw.githubusercontent.com/hrithikkothari1234/MotionDetector/master/Example/exampleimage2.png)
