@@ -16,7 +16,7 @@ Processing the video from the webcam and:
 
 Example : <br/>
 
-![alt text](https://raw.githubusercontent.com/hrithikkothari1234/MotionDetector/master/Example/exampleimage2.png
+![alt text](https://raw.githubusercontent.com/hrithikkothari1234/MotionDetector/master/Example/exampleimage2.png)
 
 ## Information
 Motion Detection is implemented by comparing all the frames of the video with the initial frame(i.e. frame at the beginning of the video) <br/>
@@ -41,4 +41,4 @@ After quitting a Graph.html is generated which shows ur Motion Graph. <br />
 
 * Example Graph : https://hrithikkothari1234.github.io/Webmap/Graph.html
 
-![alt text](https://raw.githubusercontent.com/hrithikkothari1234/MotionDetector/master/Example/exampleimage.png
+![alt text](https://raw.githubusercontent.com/hrithikkothari1234/MotionDetector/master/Example/exampleimage.png)
